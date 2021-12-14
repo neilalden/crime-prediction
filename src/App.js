@@ -48,7 +48,6 @@ function App() {
 		// console.log(
 		// 	parseInt(results["decision tree"]["confidence"].replace("%", "")),
 		// );
-		console.log(results);
 		let tempPred = {};
 		const algos = Object.keys(results);
 		for (let i in algos) {
