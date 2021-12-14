@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/crime-prediction/static/js/main.aacd49fb.chunk.js",
+    "main.js.map": "/crime-prediction/static/js/main.aacd49fb.chunk.js.map",
+    "runtime-main.js": "/crime-prediction/static/js/runtime-main.38e083ef.js",
+    "runtime-main.js.map": "/crime-prediction/static/js/runtime-main.38e083ef.js.map",
+    "static/css/2.fe34fe5f.chunk.css": "/crime-prediction/static/css/2.fe34fe5f.chunk.css",
+    "static/js/2.f8a4def9.chunk.js": "/crime-prediction/static/js/2.f8a4def9.chunk.js",
+    "static/js/2.f8a4def9.chunk.js.map": "/crime-prediction/static/js/2.f8a4def9.chunk.js.map",
+    "index.html": "/crime-prediction/index.html",
+    "static/css/2.fe34fe5f.chunk.css.map": "/crime-prediction/static/css/2.fe34fe5f.chunk.css.map",
+    "static/js/2.f8a4def9.chunk.js.LICENSE.txt": "/crime-prediction/static/js/2.f8a4def9.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/crime-prediction/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e083ef.js",
+    "static/css/2.fe34fe5f.chunk.css",
+    "static/js/2.f8a4def9.chunk.js",
+    "static/js/main.aacd49fb.chunk.js"
+  ]
+}
