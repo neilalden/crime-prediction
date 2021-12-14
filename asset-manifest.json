@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/crime-prediction/static/js/main.aacd49fb.chunk.js",
-    "main.js.map": "/crime-prediction/static/js/main.aacd49fb.chunk.js.map",
+    "main.js": "/crime-prediction/static/js/main.f6dec77a.chunk.js",
+    "main.js.map": "/crime-prediction/static/js/main.f6dec77a.chunk.js.map",
     "runtime-main.js": "/crime-prediction/static/js/runtime-main.38e083ef.js",
     "runtime-main.js.map": "/crime-prediction/static/js/runtime-main.38e083ef.js.map",
     "static/css/2.fe34fe5f.chunk.css": "/crime-prediction/static/css/2.fe34fe5f.chunk.css",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.38e083ef.js",
     "static/css/2.fe34fe5f.chunk.css",
     "static/js/2.f8a4def9.chunk.js",
-    "static/js/main.aacd49fb.chunk.js"
+    "static/js/main.f6dec77a.chunk.js"
   ]
 }
